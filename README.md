@@ -21,10 +21,10 @@ Until the final price charts, the code is provided with comments in English.
 
 Верхняя оценка соответствует среднему арифметическому 4 прогнозов моделей, а нижняя среднему геометрическому 
 
+![image](https://github.com/gppoleshkin/forecast-of-BTC-price-2024-2025/assets/150899409/da15a217-57ed-4d25-b3fe-30a7361c7df7)
+
 The upper estimate corresponds to the arithmetic mean of the 4 model forecasts, the lower estimate to the geometric mean
 
-
-![image](https://github.com/gppoleshkin/forecast-of-BTC-price-2024-2025/assets/150899409/e139b7c6-4645-4ca0-9f6c-6a8425a268bb)
 
 
 
