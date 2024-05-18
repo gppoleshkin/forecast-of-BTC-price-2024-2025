@@ -5,6 +5,10 @@ Models used: linear regression, LTSM, polynomial regression
 
 Until the final price charts, the code is provided with comments in English.
 
+![image](https://github.com/gppoleshkin/forecast-of-BTC-price-2024-2025/assets/150899409/6962ddf3-fc60-4af1-a6f5-cc96d59b209c)
+
+
+
 ![image](https://github.com/gppoleshkin/forecast-of-BTC-price-2024-2025/assets/150899409/6b364ffd-ba3f-4a8e-bbd6-ed587780bebd)
 
 
@@ -13,6 +17,8 @@ Until the final price charts, the code is provided with comments in English.
 
 ![image](https://github.com/gppoleshkin/forecast-of-BTC-price-2024-2025/assets/150899409/83880b0d-1483-41ed-986b-37da318ca67d)
 
-![image](https://github.com/gppoleshkin/forecast-of-BTC-price-2024-2025/assets/150899409/f8cec842-c615-4197-b651-ed08b98ae21b)
+![image](https://github.com/gppoleshkin/forecast-of-BTC-price-2024-2025/assets/150899409/3b067b15-9f7e-4511-b01a-3bade9b0c916)
+
+![image](https://github.com/gppoleshkin/forecast-of-BTC-price-2024-2025/assets/150899409/dec279ea-ef63-4401-aacd-ce51616cfa14)
 
 
