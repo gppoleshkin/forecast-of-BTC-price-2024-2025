@@ -11,4 +11,8 @@ Until the final price charts, the code is provided with comments in English.
 ![image](https://github.com/gppoleshkin/forecast-of-BTC-price-2024-2025/assets/150899409/1ef38ccb-76ca-48a2-b2b8-6766d63954ba)
 
 
-<img width="351" alt="image" src="https://github.com/gppoleshkin/forecast-of-BTC-price-2024-2025/assets/150899409/09be4502-6108-483c-b93f-7603270c3f9e">
+![image](https://github.com/gppoleshkin/forecast-of-BTC-price-2024-2025/assets/150899409/83880b0d-1483-41ed-986b-37da318ca67d)
+
+![image](https://github.com/gppoleshkin/forecast-of-BTC-price-2024-2025/assets/150899409/f8cec842-c615-4197-b651-ed08b98ae21b)
+
+
